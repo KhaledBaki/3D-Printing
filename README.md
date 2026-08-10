@@ -1,2 +1,9 @@
 # 3D-Printing
-This repository will hold multiple templates for 3D prints. I'm still a beginner, but trust the process!
+## Software Used
+Ultimaker Cura
+Tinkercad
+
+## Templates
+TO BE ADDED
+
+
